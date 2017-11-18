@@ -21,3 +21,4 @@ Git remote -v:see a list of a git project's remotes
 Git fetch: to see if changes have been made to the remote and bring the changes down to your local copy 
 Git merge origin/master: update local master branch with the upadted commits made from remote branch
 Git push origin your_branch_name: after doing cd filename, git branch branch_name, git checkout branch_name, made some changes in the file, git add filename, git commit -m "notes", 
+#End of notes
